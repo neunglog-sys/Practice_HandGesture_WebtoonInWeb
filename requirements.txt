@@ -1,0 +1,7 @@
+opencv-python
+mediapipe==0.10.11
+tensorflow==2.15.0
+numpy
+pyautogui
+scikit-learn
+ipykernel

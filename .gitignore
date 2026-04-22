@@ -1,0 +1,22 @@
+# 데이터 및 영상
+raw_data/
+dataset/
+*.npy
+*.mp4
+*.jpg
+*.png
+
+# 학습된 모델
+models/
+*.h5
+*.tflite
+
+# 파이썬 가상환경 및 캐시
+__pycache__/
+.venv/
+venv/
+
+# 설정 파일
+.vscode/
+.idea/
+.DS_Store
